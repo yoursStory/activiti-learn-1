@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+.bpmn/
+.classpath
+.gitignore
+.idea/
+.project
+.settings/
+activiti_learn_1.iml
+out/
+target/
