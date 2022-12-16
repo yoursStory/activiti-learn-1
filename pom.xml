@@ -11,7 +11,7 @@
         <activiti.version>5.19.0</activiti.version>
         <h2.version>1.3.172</h2.version>
         <groovy.version>2.4.15</groovy.version>
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-fileupload.version>1.2.2</commons-fileupload.version>
         <slf4j.version>1.7.25</slf4j.version>
